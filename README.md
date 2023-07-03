@@ -1,7 +1,7 @@
 # ml-haui
 Bài tập lớn môn học máy
 
-# Tên đề tài [Đang cập nhật] [11/5/2023]
+# Tên đề tài [TÌM HIỂU ỨNG DỤNG FEATURE ENGINEERING] [3/7/2023]
 
 # Sinh viên thực hiện
 
